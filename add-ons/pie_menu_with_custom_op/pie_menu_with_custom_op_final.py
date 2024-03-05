@@ -1,7 +1,7 @@
 bl_info = {
     "name": "Pie Menu: Template",
     "description": "Pie menu example",
-    "author": "Viktor Stepanov",
+    "author": "Milan",
     "version": (0, 1, 1),
     "blender": (2, 80, 0),
     "location": "3D View",
